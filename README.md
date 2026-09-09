@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
