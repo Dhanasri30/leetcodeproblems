@@ -22,8 +22,22 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0001-two-sum) |
+| [0881-boats-to-save-people](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0881-boats-to-save-people) |
+## Two Pointers
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0881-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
