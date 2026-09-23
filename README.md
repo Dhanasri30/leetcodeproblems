@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
