@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0881-boats-to-save-people) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Dhanasri30/leetcodeproblems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
